@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{17FEEC74-C933-483F-92E9-3C40F2014FC8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BlueShoppingCart/Program.cs">
+    <Files>
+      <File FileName="BlueShoppingCart/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BlueShoppingCart" expanded="True">
+            <Node name="BlueShoppingCart" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.BlueShoppingCart FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

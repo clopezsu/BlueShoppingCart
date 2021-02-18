@@ -1,0 +1,12 @@
+/Users/moontime/Desktop/BlueShoppingCart/BlueShoppingCart/BlueShoppingCart/bin/Debug/netcoreapp3.1/BlueShoppingCart.deps.json
+/Users/moontime/Desktop/BlueShoppingCart/BlueShoppingCart/BlueShoppingCart/bin/Debug/netcoreapp3.1/BlueShoppingCart.runtimeconfig.json
+/Users/moontime/Desktop/BlueShoppingCart/BlueShoppingCart/BlueShoppingCart/bin/Debug/netcoreapp3.1/BlueShoppingCart.runtimeconfig.dev.json
+/Users/moontime/Desktop/BlueShoppingCart/BlueShoppingCart/BlueShoppingCart/bin/Debug/netcoreapp3.1/BlueShoppingCart.dll
+/Users/moontime/Desktop/BlueShoppingCart/BlueShoppingCart/BlueShoppingCart/bin/Debug/netcoreapp3.1/BlueShoppingCart.pdb
+/Users/moontime/Desktop/BlueShoppingCart/BlueShoppingCart/BlueShoppingCart/obj/Debug/netcoreapp3.1/BlueShoppingCart.csprojAssemblyReference.cache
+/Users/moontime/Desktop/BlueShoppingCart/BlueShoppingCart/BlueShoppingCart/obj/Debug/netcoreapp3.1/BlueShoppingCart.AssemblyInfoInputs.cache
+/Users/moontime/Desktop/BlueShoppingCart/BlueShoppingCart/BlueShoppingCart/obj/Debug/netcoreapp3.1/BlueShoppingCart.AssemblyInfo.cs
+/Users/moontime/Desktop/BlueShoppingCart/BlueShoppingCart/BlueShoppingCart/obj/Debug/netcoreapp3.1/BlueShoppingCart.csproj.CoreCompileInputs.cache
+/Users/moontime/Desktop/BlueShoppingCart/BlueShoppingCart/BlueShoppingCart/obj/Debug/netcoreapp3.1/BlueShoppingCart.dll
+/Users/moontime/Desktop/BlueShoppingCart/BlueShoppingCart/BlueShoppingCart/obj/Debug/netcoreapp3.1/BlueShoppingCart.pdb
+/Users/moontime/Desktop/BlueShoppingCart/BlueShoppingCart/BlueShoppingCart/obj/Debug/netcoreapp3.1/BlueShoppingCart.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/moontime/.dotnet/store/|arch|/|tfm|",
+      "/Users/moontime/.nuget/packages"
+    ]
+  }
+}
